@@ -6,11 +6,11 @@ import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 //import { faFileCirclePlus } from '@fortawesome/free-solid-svg-icons'
 
 // importa o ícone desejado
-import { faMedal, faPeopleArrows, faChildDress, faVolleyball } from '@fortawesome/free-solid-svg-icons'
+import { faMedal, faPeopleArrows, faChildDress, faVolleyball, faWheelchairMove } from '@fortawesome/free-solid-svg-icons'
 
 
 // Adiciona os ícones à biblioteca
-library.add( faMedal, faPeopleArrows, faChildDress, faVolleyball )
+library.add( faMedal, faPeopleArrows, faChildDress, faVolleyball, faWheelchairMove )
 
 export default FontAwesomeIcon
 

@@ -6,7 +6,8 @@
       <p class="text-center text-gray-700 mb-12 max-w-2xl mx-auto">Nossas unidades contam com espaços pensados para o
         desenvolvimento completo dos alunos</p>
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-        <div class="bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow">
+
+        <div class="bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-all hover:scale-105 ">
           <div class="flex items-start">
             <svg class="w-8 h-8 text-blue-900 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
               <path
@@ -18,7 +19,8 @@
             </div>
           </div>
         </div>
-        <div class="bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow">
+
+        <div class="bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-all hover:scale-105">
           <div class="flex items-start">
             <svg class="w-8 h-8 text-orange-500 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
               <path
@@ -30,7 +32,7 @@
             </div>
           </div>
         </div>
-        <div class="bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow">
+        <div class="bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-all hover:scale-105">
           <div class="flex items-start">
             <svg class="w-8 h-8 text-orange-500 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
               <path fill-rule="evenodd"
@@ -43,20 +45,18 @@
             </div>
           </div>
         </div>
-        <div class="bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow">
+        <div class="bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-all hover:scale-105">
           <div class="flex items-start">
-            <svg class="w-8 h-8 text-blue-900 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-              <path fill-rule="evenodd"
-                d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z"
-                clip-rule="evenodd" />
-            </svg>
+
+              <font-awesome-icon class="text-3xl text-blue-900 mr-3 flex-shrink-1" icon="fa-solid fa-volleyball" />
+
             <div>
               <h3 class="text-lg font-bold text-blue-900 mb-2">Quadra Esportiva</h3>
               <p class="text-gray-600">Espaço para atividades físicas, esportes e recreação</p>
             </div>
           </div>
         </div>
-        <div class="bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow">
+        <div class="bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-all hover:scale-105">
           <div class="flex items-start">
             <svg class="w-8 h-8 text-orange-500 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
               <path
@@ -68,20 +68,20 @@
             </div>
           </div>
         </div>
-        <div class="bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow">
+
+        <div class="bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-all hover:scale-105">
           <div class="flex items-start">
-            <svg class="w-8 h-8 text-blue-900 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-              <path fill-rule="evenodd"
-                d="M5 2a1 1 0 011 1v1h1a1 1 0 010 2H6v1a1 1 0 01-2 0V6H3a1 1 0 010-2h1V3a1 1 0 011-1zm0 10a1 1 0 011 1v1h1a1 1 0 110 2H6v1a1 1 0 11-2 0v-1H3a1 1 0 110-2h1v-1a1 1 0 011-1zM12 2a1 1 0 01.967.744L14.146 7.2 17.5 9.134a1 1 0 010 1.732l-3.354 1.935-1.18 4.455a1 1 0 01-1.933 0L9.854 12.8 6.5 10.866a1 1 0 010-1.732l3.354-1.935 1.18-4.455A1 1 0 0112 2z"
-                clip-rule="evenodd" />
-            </svg>
+
+            <font-awesome-icon class="text-3xl text-blue-900 mr-3 flex-shrink-1" icon="fa-solid fa-wheelchair-move" />
+
             <div>
-              <h3 class="text-lg font-bold text-blue-900 mb-2">Berçário</h3>
-              <p class="text-gray-600">Estruturado com sala de repouso e cuidados especializados</p>
+              <h3 class="text-lg font-bold text-blue-900 mb-2">Acessibilidade com elevador</h3>
+              <p class="text-gray-600">Acessibilidade com elevador garante inclusão, autonomia e segurança, permitindo que todos circulem com conforto por todos os ambientes.</p>
             </div>
           </div>
         </div>
-        <div class="bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow">
+
+        <div class="bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-all hover:scale-105">
           <div class="flex items-start">
             <svg class="w-8 h-8 text-orange-500 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
               <path fill-rule="evenodd"
@@ -94,7 +94,8 @@
             </div>
           </div>
         </div>
-        <div class="bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow">
+
+        <div class="bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-all hover:scale-105">
           <div class="flex items-start">
             <svg class="w-8 h-8 text-blue-900 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
               <path fill-rule="evenodd"
@@ -107,6 +108,7 @@
             </div>
           </div>
         </div>
+
       </div>
     </div>
   </section>
