@@ -71,11 +71,11 @@
                             Contato
                         </a>
                     </li>
-                     <li>
-                        <a href="#pais-alunos"
-                            :class="activeSection === 'pais-alunos' ? 'text-laranja-escuro font-bold' : 'text-gray-900 hover:text-laranja-escuro'"
-                            class="block py-2 px-3 rounded-sm md:p-0">
-                            Pais-alunos
+                       <li>
+                        <a href="https://vagas.redeliceu.com.br/"
+                          target=_blank
+                            class="block py-2 px-3 rounded-sm md:p-0 text-gray-900 hover:text-laranja-escuro">
+                            Trabalhe Conosco
                         </a>
                     </li>
                 </ul>
